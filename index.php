@@ -1,7 +1,7 @@
 <?php
 	// configuration
 	$APP_TITLE = "Popcorn Time";
-	$MANIFEST_FILE_PATH = "itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/plycypludkitcja/popcorn.plist";
+	$MANIFEST_FILE_PATH = "itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/lrbkej2o7amcoun/popcorn.plist";
 	$ICON_FILE_PATH = "https://popcorntime.sh/images/logo-valentines.png";
 ?>
 
